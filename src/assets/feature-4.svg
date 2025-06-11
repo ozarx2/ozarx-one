@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="none"/>
+  
+  <!-- Main Illustration -->
+  <g transform="translate(50, 50)">
+    <!-- Bell -->
+    <path d="M100 50C100 27.909 117.909 10 140 10C162.091 10 180 27.909 180 50V90C180 90 180 110 200 110H80C100 110 100 90 100 90V50Z" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+    <rect x="130" y="110" width="20" height="30" fill="#2196F3"/>
+    <path d="M120 140C120 140 140 160 160 140" stroke="#2196F3" stroke-width="2"/>
+    
+    <!-- Notification -->
+    <rect x="200" y="50" width="150" height="100" rx="8" fill="white" stroke="#2196F3" stroke-width="2"/>
+    <circle cx="220" cy="70" r="10" fill="#2196F3"/>
+    <rect x="240" y="65" width="90" height="8" rx="4" fill="#2196F3"/>
+    <rect x="210" y="90" width="130" height="8" rx="4" fill="#90CAF9"/>
+    <rect x="210" y="110" width="100" height="8" rx="4" fill="#90CAF9"/>
+  </g>
+</svg> 

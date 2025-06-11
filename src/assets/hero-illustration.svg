@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background Elements -->
+  <circle cx="400" cy="300" r="250" fill="url(#gradient1)" opacity="0.1"/>
+  <circle cx="400" cy="300" r="200" fill="url(#gradient2)" opacity="0.1"/>
+  
+  <!-- Main Illustration -->
+  <g transform="translate(200, 100)">
+    <!-- Person -->
+    <circle cx="200" cy="200" r="100" fill="#FFB74D"/>
+    <path d="M200 150 C250 150 250 250 200 250 C150 250 150 150 200 150" fill="#FFA726"/>
+    
+    <!-- Document -->
+    <rect x="300" y="150" width="200" height="250" rx="10" fill="white"/>
+    <rect x="320" y="180" width="160" height="10" rx="5" fill="#E0E0E0"/>
+    <rect x="320" y="200" width="160" height="10" rx="5" fill="#E0E0E0"/>
+    <rect x="320" y="220" width="160" height="10" rx="5" fill="#E0E0E0"/>
+    <rect x="320" y="240" width="120" height="10" rx="5" fill="#E0E0E0"/>
+    <rect x="320" y="260" width="160" height="10" rx="5" fill="#E0E0E0"/>
+    <rect x="320" y="280" width="140" height="10" rx="5" fill="#E0E0E0"/>
+    <rect x="320" y="300" width="160" height="10" rx="5" fill="#E0E0E0"/>
+    <rect x="320" y="320" width="100" height="10" rx="5" fill="#E0E0E0"/>
+    
+    <!-- Magnifying Glass -->
+    <circle cx="150" cy="150" r="50" stroke="white" stroke-width="8" fill="none"/>
+    <line x1="180" y1="180" x2="220" y2="220" stroke="white" stroke-width="8"/>
+  </g>
+  
+  <!-- Decorative Elements -->
+  <circle cx="100" cy="100" r="20" fill="#4CAF50" opacity="0.2"/>
+  <circle cx="700" cy="500" r="30" fill="#2196F3" opacity="0.2"/>
+  <circle cx="600" cy="100" r="25" fill="#FF9800" opacity="0.2"/>
+  <circle cx="100" cy="500" r="15" fill="#9C27B0" opacity="0.2"/>
+  
+  <!-- Gradients -->
+  <defs>
+    <radialGradient id="gradient1" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 300) rotate(90) scale(250)">
+      <stop offset="0%" stop-color="#4CAF50"/>
+      <stop offset="100%" stop-color="#2196F3"/>
+    </radialGradient>
+    <radialGradient id="gradient2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(400 300) rotate(90) scale(200)">
+      <stop offset="0%" stop-color="#FF9800"/>
+      <stop offset="100%" stop-color="#9C27B0"/>
+    </radialGradient>
+  </defs>
+</svg> 

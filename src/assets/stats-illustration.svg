@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="none"/>
+  
+  <!-- Main Illustration -->
+  <g transform="translate(50, 50)">
+    <!-- Bar Chart -->
+    <rect x="50" y="150" width="40" height="100" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+    <rect x="100" y="100" width="40" height="150" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+    <rect x="150" y="50" width="40" height="200" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+    
+    <!-- Line Chart -->
+    <path d="M50 200L100 150L150 100L200 120L250 80" stroke="#2196F3" stroke-width="4" fill="none"/>
+    <circle cx="50" cy="200" r="6" fill="#2196F3"/>
+    <circle cx="100" cy="150" r="6" fill="#2196F3"/>
+    <circle cx="150" cy="100" r="6" fill="#2196F3"/>
+    <circle cx="200" cy="120" r="6" fill="#2196F3"/>
+    <circle cx="250" cy="80" r="6" fill="#2196F3"/>
+    
+    <!-- Axis -->
+    <line x1="50" y1="250" x2="300" y2="250" stroke="#90CAF9" stroke-width="2"/>
+    <line x1="50" y1="50" x2="50" y2="250" stroke="#90CAF9" stroke-width="2"/>
+  </g>
+</svg> 

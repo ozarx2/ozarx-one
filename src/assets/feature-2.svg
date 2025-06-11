@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="300" viewBox="0 0 400 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="400" height="300" fill="none"/>
+  
+  <!-- Main Illustration -->
+  <g transform="translate(50, 50)">
+    <!-- Building -->
+    <rect x="50" y="50" width="120" height="160" fill="#E3F2FD" stroke="#2196F3" stroke-width="2"/>
+    <rect x="70" y="70" width="30" height="30" fill="white" stroke="#2196F3" stroke-width="2"/>
+    <rect x="120" y="70" width="30" height="30" fill="white" stroke="#2196F3" stroke-width="2"/>
+    <rect x="70" y="110" width="30" height="30" fill="white" stroke="#2196F3" stroke-width="2"/>
+    <rect x="120" y="110" width="30" height="30" fill="white" stroke="#2196F3" stroke-width="2"/>
+    <rect x="70" y="150" width="30" height="30" fill="white" stroke="#2196F3" stroke-width="2"/>
+    <rect x="120" y="150" width="30" height="30" fill="white" stroke="#2196F3" stroke-width="2"/>
+    
+    <!-- Company Info -->
+    <rect x="200" y="50" width="150" height="160" rx="8" fill="white" stroke="#2196F3" stroke-width="2"/>
+    <circle cx="230" cy="80" r="20" fill="#E3F2FD"/>
+    <rect x="260" y="70" width="70" height="8" rx="4" fill="#2196F3"/>
+    <rect x="260" y="85" width="50" height="8" rx="4" fill="#90CAF9"/>
+    <rect x="210" y="110" width="130" height="8" rx="4" fill="#90CAF9"/>
+    <rect x="210" y="130" width="130" height="8" rx="4" fill="#90CAF9"/>
+    <rect x="210" y="150" width="100" height="8" rx="4" fill="#90CAF9"/>
+    <rect x="210" y="170" width="80" height="8" rx="4" fill="#90CAF9"/>
+  </g>
+</svg> 
